@@ -1,0 +1,21 @@
+body{
+background-size: cover;
+}
+
+.heading{
+font-family: 'Raleway', sans-serif;
+}
+
+a{
+background-color:white;
+border-radius:10px;
+font-size:50px;;
+color:black;
+}
+
+canvas{
+background-color:black;
+border:black solid 5px;
+box-shadow:5px 5px 5px gray;
+margin-top:500px;
+}
